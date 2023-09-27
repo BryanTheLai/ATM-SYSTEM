@@ -1,4 +1,4 @@
-# Sem-3-ATM-SYSTEM
+# Simple ATM System in Assembly
 
 ## COPIUM
 
